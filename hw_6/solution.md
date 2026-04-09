@@ -1,9 +1,9 @@
 $$
-G = \left( \begin{pmatrix}
+G = \begin{pmatrix}
 1 & 0 & 1 & 1 & 0 & 1 \\
 1 & 0 & 1 & 0 & 1 & 0 \\
 1 & 1 & 0 & 1 & 0 & 0
-\end{pmatrix} \right)
+\end{pmatrix}
 $$
 
 Код имеет длину \(n=6\), размерность \(k=3\).
@@ -13,11 +13,11 @@ $$
 Находим $H$ такую, что $G H^T = 0$.  
 Решая систему $G x = 0$, получаем базис решений: 
 $$
-H = \left( \begin{pmatrix}
+H = \begin{pmatrix}
 1 & 1 & 1 & 0 & 0 & 0 \\
 1 & 0 & 0 & 1 & 1 & 0 \\
 1 & 0 & 1 & 1 & 0 & 1
-\end{pmatrix} \right)
+\end{pmatrix} 
 $$
 
 Столбцы $H$:
