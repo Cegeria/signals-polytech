@@ -3,7 +3,7 @@ G = \left( \begin{pmatrix}
 1 & 0 & 1 & 1 & 0 & 1 \\
 1 & 0 & 1 & 0 & 1 & 0 \\
 1 & 1 & 0 & 1 & 0 & 0
-\end{matrix} \right)
+\end{pmatrix} \right)
 $$
 
 Код имеет длину \(n=6\), размерность \(k=3\).
